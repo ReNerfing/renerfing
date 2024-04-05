@@ -1,4 +1,4 @@
-# Re-Nerfing
+# Code of Re-Nerfing
 
 Website: https://renerfing.github.io
 
